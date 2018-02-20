@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GitScene.unity
+  isLoaded: 1
+  isActive: 1
